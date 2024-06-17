@@ -1,0 +1,32 @@
+h3{
+    color: darkgreen;
+    font-size: x-large;
+    
+}
+hr{
+    color: blueviolet;
+    font-size: medium;
+    align-self: normal ;
+}
+*{
+    font: bold;
+    background-color:yellowgreen;
+}
+p{
+    color: coral;
+}
+a{
+    color: brown;
+    
+}
+li{
+    list-style: square;
+}
+table{
+    border-color: brown;
+}
+table,th,tr,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+    
